@@ -21,3 +21,5 @@ export class MessagesService {
     return this.messagesRepo.create(content);
   }
 }
+
+console.log('Teste');
